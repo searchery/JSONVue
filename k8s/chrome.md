@@ -6,4 +6,7 @@
 
 # 4.同步
 
+
 ## 4.1 gitee -> github
+
+## 4.2 github -> gitee
