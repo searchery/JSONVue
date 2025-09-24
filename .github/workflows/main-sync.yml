@@ -12,7 +12,6 @@ jobs:
         with:
           git_config_pull_rebase: true
           upstream_pull_args: --unshallow
-          fetch-depth: 0
           test_mode: false
           upstream_sync_repo: gildas-lormeau/JSONVue
           upstream_sync_branch: master
