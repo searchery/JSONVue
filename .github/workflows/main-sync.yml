@@ -11,7 +11,7 @@ jobs:
       - uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
         with:
           git_config_pull_rebase: true
-          test_mode: true
+          test_mode: false
           upstream_sync_repo: gildas-lormeau/JSONVue
           upstream_sync_branch: master
           target_sync_branch: master
